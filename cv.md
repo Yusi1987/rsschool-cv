@@ -38,10 +38,9 @@
 QA Engineer – Homecredit Bank, Moscow
 + Functional testing of a highly loaded distributed Big Data platform based on Hadoop. The data sources are banking systems and external sources (like credit history bureau or telecommunication companies).
 + Writing test suites and test cases.
-+ Testing with kafka, Hue, Nifi, Impala, Hive, spark-shell, hbase-shell, pl/sql developer, Soap ui, Postman.
++ Testing with kafka, Hue, Nifi, Impala, Hive, spark-shell, hbase-shell, pl/sql developer, Soap ui, Postman.  
 
-Skills
----
+## Skills
 
 + Big Data  
 + Linux

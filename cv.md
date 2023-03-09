@@ -1,8 +1,16 @@
 # SAVVA IUGOV
 
+![Картинка][logo]
+
 **Senior Big data analyst** with emphasis on end-to-end quality validation. Work with business owners, bridging with development teams on definitions of Bigdata system based on Hbase, Hive, Nifi, kafka and other modern technologies. Design the usage flows and definitions of user acceptance criteria. Assist QA teams in preparation of test strategy and plans.
 
+## Contacts
+
+**Phone:** +7 910 919 20 36  
+**Email:** <yusiyo@gmail.com>
+
 ## Experience
+
 *09/2022 to now*  
 **System Analyst – Swift X, Moscow**
 
@@ -47,3 +55,5 @@ Skills
 + Hive  
 + HBase  
 + Jupiter  
+
+[logo]:https://sun9-85.userapi.com/c970/u3117461/-6/z_056be1a9.jpg
